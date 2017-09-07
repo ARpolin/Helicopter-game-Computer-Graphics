@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Helicopter Game", "Helicopter Game\Helicopter Game.vcxproj", "{AA06D794-95A1-4E75-B2B0-A34CA5AA8D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA06D794-95A1-4E75-B2B0-A34CA5AA8D43}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA06D794-95A1-4E75-B2B0-A34CA5AA8D43}.Debug|Win32.Build.0 = Debug|Win32
+		{AA06D794-95A1-4E75-B2B0-A34CA5AA8D43}.Release|Win32.ActiveCfg = Release|Win32
+		{AA06D794-95A1-4E75-B2B0-A34CA5AA8D43}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+﻿Build started 8/30/2016 9:37:43 AM.
+     1>Project "C:\Users\Polin\Desktop\copter project\Helicopter Game\Helicopter Game\Helicopter Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(29): error C3861: 'background': identifier not found
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(30): error C2065: 'CENTER' : undeclared identifier
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(30): error C3861: 'textAlign': identifier not found
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(31): error C3861: 'fill': identifier not found
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(32): error C3861: 'textSize': identifier not found
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(33): error C2065: 'height' : undeclared identifier
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(33): error C2065: 'width' : undeclared identifier
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(33): error C3861: 'text': identifier not found
+     1>c:\users\polin\desktop\copter project\helicopter game\helicopter game\source.cpp(34): error C3861: 'textSize': identifier not found
+     1>Done Building Project "C:\Users\Polin\Desktop\copter project\Helicopter Game\Helicopter Game\Helicopter Game.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.24
